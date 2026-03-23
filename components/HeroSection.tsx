@@ -60,7 +60,7 @@ export default function HeroSection() {
                   leading-snug
                 "
               >
-               Precision Medical Devices for ENT & Plastic Surgery Excellence
+               Precision Medical Devices for ENT & Plastic Surgery Excellence,@12asg;;1
               </h1>
     
               <p
